@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mishasmaha.github.io/docs-qpr1ih/sitemap.xml
